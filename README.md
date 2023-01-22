@@ -1,18 +1,18 @@
 Includes this games:
 ====================
-Abbey des morts
+Abbey des morts x86_64
 
-OpenTyrian
+OpenTyrian x86 and x86_64
 
-Street Wars
+Street Wars x86_64
 
-Ascension
+Ascension x86_64
 
-Gemma
+Gemma x86_64
 
-SDLPoP
+SDLPoP x86 and x86_64
 
-TinyCrate (x86_64 and opengl 2.0 and opengl 3.0)
+TinyCrate (x86/x86_64 and opengl 2.0/3.0)
 
 
 
